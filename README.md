@@ -1,2 +1,0 @@
-# Selfie
-Personal Public Web
